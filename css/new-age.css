@@ -348,6 +348,22 @@ section.contact ul.list-social li a {
   border-radius: 100%;
 }
 
+section.contact ul.list-social li.social-github a {
+  background-color: #323131;
+}
+
+section.contact ul.list-social li.social-github a:hover {
+  background-color: #4a4a4a;
+}
+
+section.contact ul.list-social li.social-telegram a {
+  background-color: #6bbeff;
+}
+
+section.contact ul.list-social li.social-telegram a:hover {
+  background-color: #4daffc;
+}
+
 section.contact ul.list-social li.social-twitter a {
   background-color: #1da1f2;
 }
