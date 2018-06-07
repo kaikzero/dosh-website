@@ -28,19 +28,19 @@ section.contact {
                     }
                 }
             }
-            &.social-facebook {
+            &.social-telegram {
                 a {
-                    background-color: $brand-facebook;
+                    background-color: $brand-telegram;
                     &:hover {
-                        background-color: darken($brand-facebook, 5%);
+                        background-color: darken($brand-telegram, 5%);
                     }
                 }
             }
-            &.social-google-plus {
+            &.social-github {
                 a {
-                    background-color: $brand-google-plus;
+                    background-color: $brand-github;
                     &:hover {
-                        background-color: darken($brand-google-plus, 5%);
+                        background-color: darken($brand-github, 5%);
                     }
                 }
             }
